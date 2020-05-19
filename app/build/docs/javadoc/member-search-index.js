@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.ps.app.query.handler","c":"TrainingListHandler","l":"execute()"},{"p":"com.ps.app.query.handler","c":"TrainingListHandler","l":"TrainingListHandler(TrainingDAO, NotificationQueryTrainingEvent)","url":"%3Cinit%3E(com.ps.domain.port.dao.TrainingDAO,com.ps.domain.port.eventbus.NotificationQueryTrainingEvent)"}]
